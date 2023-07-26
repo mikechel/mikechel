@@ -1,13 +1,13 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Dev Front-End em formação.
 
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Bacharelado em SISTEMAS DE INFORMAÇÃO** no <a href="https://www.unime.edu.br">UNIME</a>.
-- 💼 &nbsp; Trabalhando como **Tecnico de Suporte** na <a href="#">EMPRESA</a>
+- 🎓 &nbsp; Estudando **Bacharelado em SISTEMAS DE INFORMAÇÃO**.
+- 💼 &nbsp; Trabalhando como **Tecnico de Suporte**
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Front-End**.
 
 ## **Linguagens e Ferramentas:**  
